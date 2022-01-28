@@ -7,6 +7,10 @@
 
 ![project info banner](gif/img1.gif)
 
+![project info banner](gif/img2.png)
+
+![project info banner](gif/img3.png)
+
 
 ## Getting Started with Create React App
 
