@@ -1,6 +1,6 @@
 <p align="center">
   <a>
-    <img src="https://www.nicepng.com/png/full/363-3634406_am-logo-logo.png" height="128">
+    <img src="gif/logo.png" height="128">
     <h1 align="center">A Todo App using <a href="https://reactjs.org/">React.js</a> and <a href="https://chakra-ui.com/">Chakra UI</a></h1>
   </a>
 </p>
@@ -11,7 +11,6 @@
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-![project info banner](gif/img1.gif)
 
 ## Available Scripts
 
